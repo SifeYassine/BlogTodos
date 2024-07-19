@@ -1,0 +1,202 @@
+{
+  "users": [
+    {
+      "id": "0eb8",
+      "name": "Yassine",
+      "username": "yassine12",
+      "email": "yassine@test.com",
+      "password": "12345"
+    },
+    {
+      "id": "c595",
+      "name": "Orson Kline",
+      "username": "zufys",
+      "email": "tifaq@mailinator.com",
+      "password": "Pa$$w0rd!"
+    },
+    {
+      "id": "5c93",
+      "name": "Madison Cook",
+      "username": "ducybomix",
+      "email": "diqocico@mailinator.com",
+      "password": "Pa$$w0rd!"
+    },
+    {
+      "id": "5aed",
+      "name": "Ramona Cunningham",
+      "username": "lopelavowu",
+      "email": "pavuzuci@mailinator.com",
+      "password": "Pa$$w0rd!"
+    },
+    {
+      "id": "5c70",
+      "name": "Yasir Price",
+      "username": "tegati",
+      "email": "piqomu@mailinator.com",
+      "password": "Pa$$w0rd!"
+    },
+    {
+      "id": "1377",
+      "name": "Leslie Britt",
+      "username": "cehakiha",
+      "email": "qugunicon@mailinator.com",
+      "password": "Pa$$w0rd!"
+    },
+    {
+      "id": "3de8",
+      "name": "Driscoll Nielsen",
+      "username": "zumekamac",
+      "email": "hoqewojix@mailinator.com",
+      "password": "Pa$$w0rd!"
+    },
+    {
+      "id": "f674",
+      "name": "Allen Aguirre",
+      "username": "pohacytuv",
+      "email": "dyvi@mailinator.com",
+      "password": "Pa$$w0rd!"
+    },
+    {
+      "id": "0ea9",
+      "name": "Phelan Nichols",
+      "username": "kesalasu",
+      "email": "farat@mailinator.com",
+      "password": "Pa$$w0rd!"
+    },
+    {
+      "id": "530c",
+      "name": "Prescott Hogan",
+      "username": "cyfavopyp",
+      "email": "pepymixa@mailinator.com",
+      "password": "Pa$$w0rd!"
+    },
+    {
+      "id": "7177",
+      "name": "Maya Sanders",
+      "username": "recywycynu",
+      "email": "gageqilu@mailinator.com",
+      "password": "Pa$$w0rd!"
+    },
+    {
+      "id": "3c12",
+      "name": "Sydney Serrano",
+      "username": "kixyracary",
+      "email": "zesaby@mailinator.com",
+      "password": "Pa$$w0rd!"
+    }
+  ],
+  "posts": [
+    {
+      "id": "eb0c",
+      "title": "Sunt ut quibusdam au",
+      "body": "Quasi duis veritatis",
+      "userId": "0eb8"
+    },
+    {
+      "id": "dfc3",
+      "title": "Consectetur Nam quia",
+      "body": "Maxime ut quia simil",
+      "userId": "0eb8"
+    }
+  ],
+  "comments": [
+    {
+      "id": "1",
+      "body": "laudantium enim quasi est quidem magnam voluptate ipsam eos\ntempora quo necessitatibus\ndolor quam autem quasi\nreiciendis et nam sapiente accusantium",
+      "userId": "0eb8",
+      "postId": "eb0c"
+    },
+    {
+      "id": "2",
+      "body": "laudantium enim quasi est quidem magnam voluptate ipsam eos\ntempora quo necessitatibus\ndolor quam autem quasi\nreiciendis et nam sapiente accusantium",
+      "userId": "0eb8",
+      "postId": "dfc3"
+    }
+  ],
+  "todos": [
+    {
+      "userId": "0eb8",
+      "id": "1",
+      "title": "delectus aut autem",
+      "completed": false
+    },
+    {
+      "userId": "0eb8",
+      "id": "2",
+      "title": "quis ut nam facilis et officia qui",
+      "completed": false
+    },
+    {
+      "userId": "0eb8",
+      "id": "3",
+      "title": "fugiat veniam minus",
+      "completed": false
+    },
+    {
+      "userId": "0eb8",
+      "id": "4",
+      "title": "et porro tempora",
+      "completed": true
+    },
+    {
+      "userId": "0eb8",
+      "id": "5",
+      "title": "laboriosam mollitia et enim quasi adipisci quia provident illum",
+      "completed": false
+    },
+    {
+      "userId": "0eb8",
+      "id": "6",
+      "title": "qui ullam ratione quibusdam voluptatem quia omnis",
+      "completed": false
+    },
+    {
+      "userId": "0eb8",
+      "id": "7",
+      "title": "illo expedita consequatur quia in",
+      "completed": false
+    },
+    {
+      "userId": "0eb8",
+      "id": "8",
+      "title": "quo adipisci enim quam ut ab",
+      "completed": true
+    },
+    {
+      "userId": "0eb8",
+      "id": "9",
+      "title": "molestiae perspiciatis ipsa",
+      "completed": false
+    },
+    {
+      "userId": "0eb8",
+      "id": "10",
+      "title": "illo est ratione doloremque quia maiores aut",
+      "completed": true
+    },
+    {
+      "userId": "1",
+      "id": "11",
+      "title": "vero rerum temporibus dolor",
+      "completed": true
+    },
+    {
+      "userId": "1",
+      "id": "12",
+      "title": "ipsa repellendus fugit nisi",
+      "completed": true
+    },
+    {
+      "userId": "1",
+      "id": "13",
+      "title": "et doloremque nulla",
+      "completed": false
+    },
+    {
+      "userId": "1",
+      "id": "14",
+      "title": "repellendus sunt dolores architecto voluptatum",
+      "completed": true
+    }
+  ]
+}
